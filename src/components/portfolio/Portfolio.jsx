@@ -19,7 +19,7 @@ const Portfolio = () => {
                     <img src={IMG1} alt="portfolio-1" />
                 </div>
                 <h3>Guia Turistica con Wordpress</h3>
-                <a href="" className='btn'>Github</a>
+                <a href="#" className='btn'>Github</a>
                 <a href="http://www.lasalitrosa.com.co/" className='btn btn-primary' target='_blank'>Ver Demo</a>
             </article>
 
@@ -28,8 +28,8 @@ const Portfolio = () => {
                     <img src={IMG2} alt="portfolio-1" />
                 </div>
                 <h3>Carritos de compras con ReactJS</h3>
-                <a href="https://github.com/kevinesquea17/ShoppingCart-App" className='btn' target='_blank'>Github</a>
-                <a href="https://shopping-cart-kevin-esquea.netlify.app/" className='btn btn-primary' target='_blank'>Ver Demo</a>
+                <a href="https://github.com/kevinesquea17/codealo-commerce" className='btn' target='_blank'>Github</a>
+                <a href="https://codealoecommerce-kevinesquea.netlify.app/" className='btn btn-primary' target='_blank'>Ver Demo</a>
             </article>
 
             <article className="portfolio__item">
@@ -56,7 +56,7 @@ const Portfolio = () => {
                 </div>
                 <h3>Administrador de Tareas</h3>
                 <a href="https://github.com/kevinesquea17/todoApp" className='btn' target='_blank'>Github</a>
-                <a href="" className='btn btn-primary'>Ver Demo</a>
+                <a href="" className='btn btn-primary' target='_blank'>Ver Demo</a>
             </article>
 
             {/* <article className="portfolio__item">
